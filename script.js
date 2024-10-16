@@ -1,6 +1,6 @@
 // Default Office Location (latitude, longitude)
-const officeLat =  -37.815670;  // Example latitude for Melbourne, adjust as needed
-const officeLon = 144.961310;  // Example longitude for Melbourne, adjust as needed
+const officeLat =  17.4484;  // Example latitude for Melbourne, adjust as needed
+const officeLon = 78.3830;  // Example longitude for Melbourne, adjust as needed
 const distanceThreshold = 500;  // 500 meters
 
 // Function to calculate distance between two locations using Haversine formula
